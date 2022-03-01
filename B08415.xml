@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of verses humbly presented to all my honoured masters &amp; mistresses in Holborn-End-Division in the Parish of St. Giles's in the Fields by Thomas Bamber, Bellman.</title>
+            <author>Bamber, T. (Thomas)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08415</idno>
+            <idno type="STC">Wing B617A</idno>
+            <idno type="STC">ESTC R224464</idno>
+            <idno type="EEBO-CITATION">64550912</idno>
+            <idno type="OCLC">ocm 64550912</idno>
+            <idno type="VID">184344</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08415)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184344)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2858:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of verses humbly presented to all my honoured masters &amp; mistresses in Holborn-End-Division in the Parish of St. Giles's in the Fields by Thomas Bamber, Bellman.</title>
+                  <author>Bamber, T. (Thomas)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Moore in Dogwell-Court,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>A collection of short verses on various themes.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Saint Giles in the Fields Parish Church (London, England) --  Early works to 1800.</term>
+               <term>English poetry --  Early modern, 1500-1700.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="broadside_verses">
+            <pb facs="tcp:184344:1" rendition="simple:additions"/>
+            <head>A Copy of Verſes Humbly Preſented to All my Honoured MASTERS &amp; MISTRESSES in <hi>Holborn-End-Diviſion</hi> in the Pariſh of St. <hi>Giles</hi>'s in the Fields.</head>
+            <byline>By Thomas Bamber, Bellman.</byline>
+            <lg>
+               <head>The PROLOGUE.</head>
+               <l>Since 'tis the Bell-mans Cuſtom every where,</l>
+               <l>To bring his Maſters Verſes each New year;</l>
+               <l>I keep it on, to let you know the due</l>
+               <l>Reſpect and Service that I owe to you;</l>
+               <l>For 'tis my daily happineſs to ſee</l>
+               <l>My Maſters pleas'd, and ſatisfied in me;</l>
+               <l>Which makes me hope their Guifts will ſo abound,</l>
+               <l>That I may for them pray the whole year round.</l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>woodcut of town crier</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <head>
+                  <hi>On St.</hi> Thomas's <hi>Day.</hi>
+               </head>
+               <l>WHat thô St. <hi>Thomas</hi> was poſſeſs'd at firſt</l>
+               <l>With unbelief; then into Tears he burſt</l>
+               <l>And cri'd, Lord pardon this my dreadful ſin</l>
+               <l>For now your Wounds I have both felt and ſeen:</l>
+               <l>Then happy they that by the holy Word,</l>
+               <l>In Faith blieves our Saviour and our Lord.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>On</hi> Chriſtmas <hi>Day.</hi>
+               </head>
+               <l>AVVake, awake, behold the happy Morn,</l>
+               <l>A Bleſſed Saviour for poor Sinners Born:</l>
+               <l>Oh what a mercy 'twas the Son of God,</l>
+               <l>Should eome to ſave us from the angry Rod</l>
+               <l>That <hi>Adam</hi> had prepared by his fall,</l>
+               <l>Whoſe bitter Stings we muſt have taſted all,</l>
+               <l>Had not our Saviour in his mercy ſhewn,</l>
+               <l>His Grace to us poor Wretches every one.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>On St.</hi> Stephen's <hi>Day,</hi>
+               </head>
+               <l>
+                  <hi>ST. Stephen</hi> by the <hi>Jews</hi> was ſton'd to death,</l>
+               <l>Any for Chriſt's ſake gave up this Earthly Breath.</l>
+               <l>Oh! great's the gain, when Man his Life lays down,</l>
+               <l>And in Exchange recieves a Heav'nly-Crown;</l>
+               <l>Who then would not with <hi>Stephen</hi> chuſe to die?</l>
+               <l>And after that to live Eternally.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>On St.</hi> John's <hi>Day.</hi>
+               </head>
+               <l>THE Scripture tells us how that Chriſt did love</l>
+               <l>St. <hi>John,</hi> who was as harmleſs as a Dove;</l>
+               <l>Who lean'd his Head upon our Saviours Breaſt;</l>
+               <l>Oh! then was <hi>John</hi> at full and perfect reſt:</l>
+               <l>What Happineſs 'twould be could we but find,</l>
+               <l>Such Peace, ſuch Comfort, to our troubled Mind;</l>
+               <l>And that we all may with this Saint appear,</l>
+               <l>God grant we love our Saviour full as dear.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>On</hi> Innocents <hi>Day,</hi>
+               </head>
+               <l>THE Holy Innocents come next to hand,</l>
+               <l>For none could <hi>Herod</hi>'s Cruelty withſtand,</l>
+               <l>He ſpared not his Son, ſuch was his Will,</l>
+               <l>Thinking thereby the Son of God to kill:</l>
+               <l>God's Angel came his Will for to prevent,</l>
+               <l>He <hi>Joſeph, Mary,</hi> and the <hi>Child</hi> to <hi>Egypt</hi> ſent:</l>
+               <l>The Prophets Words were all fulfill'd and done,</l>
+               <l>
+                  <hi>For out of</hi> Aegypt <hi>have I call'd my Son;</hi>
+               </l>
+               <l>Who from Aegyptian Bondage ſet us free;</l>
+               <l>This is the Son of God, this is he.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>On</hi> New-Years <hi>Day.</hi>
+               </head>
+               <l>THrice happy is that Man that now begins</l>
+               <l>The Year, with true Repentance for his Sins,</l>
+               <l>He may expect before the Year goes round,</l>
+               <l>By penitence, much comfort may be found:</l>
+               <l>The mournful Soul ſhall ſurely pity find,</l>
+               <l>To thoſe who grieve for ſin, the Lord is kind.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>On King</hi> William<hi>'s Birth<g ref="char:punc">▪</g>day, Nov. 4th.</hi>
+               </head>
+               <l>
+                  <hi>AS</hi> on this Day <hi>Europe</hi> for to adorn,</l>
+               <l>Was in this World a Princely <hi>Orange</hi> Born;</l>
+               <l>A ſcourge to <hi>France,</hi> a Plague to <hi>Popery,</hi>
+               </l>
+               <l>And from <hi>Rome</hi>'s Bondage he hath ſet us free:</l>
+               <l>Great <hi>WILLIAM</hi> our King, and <hi>Faiths Defender;</hi>
+               </l>
+               <l>God grant him many days to live in ſplendor;</l>
+               <l>Great <hi>Britain</hi>'s Scepter Uprightly to ſway;</l>
+               <l>This is our King's Birth, and his Wedding day;</l>
+               <l>Therefore make Bone-fires; ſet the Bells to ring,</l>
+               <l>Whilſt we rejoice and ſay <hi>God ſave the King.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>On Queen</hi> Mary <hi>s Birth-day, April 30th.</hi>
+               </head>
+               <l>HAppy the Day, a Day of wondrous worth,</l>
+               <l>Which brought to us ſo glorious a Birth;</l>
+               <l>Who in the worſt of Times did ſtoutly ſtand</l>
+               <l>In the Defence of this moſt Warlike Land;</l>
+               <l>Our Churches Darling, and the Papiſts hate,</l>
+               <l>For now their Plots are all worn out of date:</l>
+               <l>Rejoyce ye Heavens, and let the Earth be glad,</l>
+               <l>Quake now proud <hi>Rome,</hi> for you never had</l>
+               <l>More need to vail your Face, and bluſh for ſhame,</l>
+               <l>And tremble if you hear great <hi>Mary's</hi> Name.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>On Princeſs</hi> Ann <hi>of</hi> Denmarks <hi>Birth-day, Feb.</hi> 6.</head>
+               <l>AS on this Day a Princeſs mild,</l>
+               <l>Into the World was Born,</l>
+               <l>Who with her Pious Actions doth</l>
+               <l>This Sinful Land adorn:</l>
+               <l>She in the worſt of Times did ſtand,</l>
+               <l>When we thought She had fell</l>
+               <l>By the Contrivance and the Rage</l>
+               <l>Of Cruel <hi>Jezabel.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>To my</hi> Maſters.</head>
+               <l>I willing am my Maſters for to ſerve,</l>
+               <l>And in ſo doing, hope I may deſerve</l>
+               <l>Your Love and Bounty too, which makes me pray,</l>
+               <l>That God will ſtill preſerve you Night and Day,</l>
+               <l>And ever Bleſſings on you ſtill beſtow,</l>
+               <l>To make you happy while you're here below:</l>
+               <l>And when from Earth you happen to remove,</l>
+               <l>May you enjoy the Bleſſings that's above.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>To my</hi> Miſtreſſes.</head>
+               <l>MY Virtuous Miſtreſſes who always ſtrives</l>
+               <l>To pleaſe their Husbands, and be loving Wives,</l>
+               <l>What praiſes do belong to each of you,</l>
+               <l>Can't be expreſt, by all that I can do:</l>
+               <l>But this I wiſh that Bleſſings may attend ye,</l>
+               <l>And what ye want, God would be pleas'd to ſend ye:</l>
+               <l>And after all the Comforts of a Wife,</l>
+               <l>You may in Heav'n receive Eternal Life.</l>
+            </lg>
+            <lg>
+               <head>On <hi>Man</hi>'s Frailty.</head>
+               <l>O what is Man but living lump of Earth,</l>
+               <l>A feaſt of Worms, a Buble ſtuft with Breath,</l>
+               <l>A Veſſel full of Grief, but even a Minuit,</l>
+               <l>A painted Tomb, with putrifaction in it:</l>
+               <l>His Life's an hour of Joy, a World of Sorrow,</l>
+               <l>His Death a winters Night that finds no Morrow.</l>
+            </lg>
+            <lg>
+               <head>An Exhortation to ſeek after Chriſt.</head>
+               <l>A Rouſe from Sleep, and ſuffer not your Eyes</l>
+               <l>To take their Reſt, till you have put up cries,</l>
+               <l>That your Beloved may be of you found,</l>
+               <l>Then happy ſhall you be thereby, and Crown'd,</l>
+               <l>When you have gain'd this happy Reſt indeed,</l>
+               <l>You need not hunger, but daily on it feed.</l>
+            </lg>
+            <lg>
+               <head>The EPILOGUE.</head>
+               <l>Now to conclude, my prayers are for you all</l>
+               <l>My Maſters, Meſtreſſes, the Great and ſmall;</l>
+               <l>That firſt a merry <hi>Chriſtmaſs</hi> you may ſee,</l>
+               <l>And after that a happy Year may be;</l>
+               <l>And that the whole Courſe of your lives may prove,</l>
+               <l>Increaſe of Wealth, and happy in your love:</l>
+               <l>I wiſh all theſe may certainly fall out,</l>
+               <l>So ends my Verſes, and my Prayers to boot.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed by</hi> Tho. Moore <hi>in</hi> Dogwell-Court. 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
